@@ -12,5 +12,4 @@ class Teacher < User
     "bash Ruby rvm update certs"
   ]
 
-
 end
